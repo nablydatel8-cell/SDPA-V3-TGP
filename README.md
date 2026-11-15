@@ -1,3 +1,4 @@
+[!DOI:(https://doi.org/10.5281/zenodo.24245478])
 ДЕКЛАРАТИВНЫЙ ПАТЕНТ-ДАР И ОТКРЫТАЯ СПЕЦИФИКАЦИЯ SDPAP V3 TGP
 Hash первичного лога: cd36560d
 Merkle Root Chain: 138f68e670011ae22aeb09ab5476d7729cb7cc6ecd633482e9fe6b2e321ec1f2
